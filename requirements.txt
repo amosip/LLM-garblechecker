@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Groq client for calling the mixtral-8x7b-32768 model
+groq>=0.4.0
+
+# PDF text extraction
+PyPDF2>=3.0.1
+
