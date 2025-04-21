@@ -145,7 +145,7 @@ def check_pdf_directory(directory_path, **analysis_params):
 if __name__ == "__main__":
     # --- Configuration ---
     # Replace with the path to your directory containing PDF files
-    pdf_directory = "./your_pdf_directory" # <--- IMPORTANT: Change this path
+    pdf_directory = "./pdfs_to_check" # <--- IMPORTANT: Change this path
 
     # --- Analysis Thresholds (Adjust as needed) ---
     # Minimum non-whitespace characters for a line to be considered non-short
