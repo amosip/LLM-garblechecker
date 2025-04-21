@@ -1,0 +1,2 @@
+File Name,Overall Garbled,Stat Reason,Alpha Ratio,Print Ratio,Short Line Ratio,LLM Status,Avg Fluency,Summary Failures,Combined Reason
+"A comparative study of the effect of sugars on the thermal and mechanical properties of concentrated waxy maize, wheat, potato and pea starch gels. Food Chemistry, 52(3), 255–262.pdf",YES,Stat: High short line ratio (0.31 > 0.25),0.75,1.00,0.31,Performed,0.90,0/3,Stat: High short line ratio (0.31 > 0.25)
