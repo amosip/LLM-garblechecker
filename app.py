@@ -1,3 +1,5 @@
+# This script checks the quality of text extracted from PDF files in a specified directory.
+
 import fitz # PyMuPDF
 import string
 import os
