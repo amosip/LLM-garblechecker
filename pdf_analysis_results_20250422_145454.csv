@@ -1,0 +1,4 @@
+File Name,Overall Garbled,Combined Reason,Stat Garbled,Stat Reason,Alpha Ratio,Print Ratio,Short Line Ratio,LLM Status,LLM Samples Run,Avg Fluency,Summary Failures
+"4,6-O-Benzylidene-d-glucopyranose and its sodium salt  new data on their preparation and properties. Carbohydrate Research, 278(1), 43–57.pdf",YES,Stat: High short line ratio (0.51 > 0.25),YES,Stat: High short line ratio (0.51 > 0.25),0.72,1.00,0.51,Performed,2,0.88,0/2
+"A Bisulfite Method of 5-Methylcytosine Mapping That Minimizes Template Degradation. Analytical Biochemistry, 226(1), 161–166.pdf",YES,Extracted text is empty,YES,Extracted text is empty,0.00,0.00,0.00,Skipped (Empty text),0,N/A,N/A
+"“B” to “A” type phase transition in short amylose chains. Carbohydrate Polymers, 21(2-3), 99–104.pdf",NO,Stat: Looks OK; LLM checks passed thresholds.,NO,Stat: Looks OK,0.75,1.00,0.22,Performed,2,0.80,0/2
