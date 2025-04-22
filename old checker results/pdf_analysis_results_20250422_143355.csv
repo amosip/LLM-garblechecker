@@ -1,0 +1,2 @@
+File Name,Overall Garbled,Combined Reason,Stat Garbled,Stat Reason,Alpha Ratio,Print Ratio,Short Line Ratio,LLM Status,LLM Samples Run,Avg Fluency,Summary Failures
+"“B” to “A” type phase transition in short amylose chains. Carbohydrate Polymers, 21(2-3), 99–104.pdf",NO,Stat: Looks OK; LLM checks passed thresholds.,NO,Stat: Looks OK,0.75,1.00,0.22,Performed,2,0.82,0/2
