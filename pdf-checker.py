@@ -1,12 +1,16 @@
-# Add these two lines at the very top to load environment variables from a .env file
+#new refactored pdf_check.py script, borken out into functions and classes for better readability and maintainability
+
+
+from pdf_utils import extract_text_from_pdf, sample_text_from_string
 from dotenv import load_dotenv
 load_dotenv()
 import csv
+import string
 from datetime import datetime
 import fitz # PyMuPDF
 import string
-import os
-import textwrap # Useful for sampling text
+# os is still needed for file path operations and env vars
+import os # Needed for os.path.join in extract_text_from_pdf error message
 import json # Needed to parse JSON response from LLM
 from groq import Groq # Import the Groq client
 from tabulate import tabulate # Import tabulate for table formatting
