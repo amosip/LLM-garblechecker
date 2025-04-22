@@ -245,7 +245,7 @@ if __name__ == "__main__":
     STATISTICAL_PARAMS = {
         "min_line_chars": 10,
         "short_line_ratio_threshold": 0.25,
-        "alphanumeric_ratio_threshold": 0.5,
+        "alphanumeric_ratio_threshold": 0.7,
         "printable_ratio_threshold": 0.7
     }
 
